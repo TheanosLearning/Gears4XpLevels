@@ -1,5 +1,5 @@
 # Gears of War 4 XP Table
-provided by [JessLL](https://gearsofwar.com/en-us/players/ii%20jessll%20ii)
+###### Provided by [JessLL](https://gearsofwar.com/en-us/players/ii%20jessll%20ii)
 
 | Level | Re-Up 0 | Re-Up 1 | Re-Up 2 | Re-Up 3 | Re-Up 4 | Re-Up 5 | Re-Up 6 | Re-Up 7 | Re-Up 8 | Re-Up 9 |
 |-------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
