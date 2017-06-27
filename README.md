@@ -7,6 +7,7 @@
 #### ReUp 0-9 data Provided by [JessLL](https://gearsofwar.com/en-us/players/ii%20jessll%20ii)
 
 [![Jump to Bottom](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_down_32.png)](#table-bottom)
+
 | Level | Re-Up 0 | Re-Up 1 | Re-Up 2 | Re-Up 3 | Re-Up 4 | Re-Up 5 | Re-Up 6 | Re-Up 7 | Re-Up 8 | Re-Up 9 | Re-Up 10 |
 |-------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
 | 1     | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0        |
