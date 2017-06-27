@@ -4,9 +4,8 @@
 
 `In general | XP(R,L) = -(800 + 20R) + (700 + 10R)*L + (100 + 10R)*L^2 | { R: ReUp, L: Level}`
 
-##### Jump to [bottom](#table-bottom) of table for scrolling.
-
 ###### ReUp 0-9 data Provided by [JessLL](https://gearsofwar.com/en-us/players/ii%20jessll%20ii)
+###### Jump to [bottom](#table-bottom) of table for scrolling.
 | Level | Re-Up 0 | Re-Up 1 | Re-Up 2 | Re-Up 3 | Re-Up 4 | Re-Up 5 | Re-Up 6 | Re-Up 7 | Re-Up 8 | Re-Up 9 | Re-Up 10 |
 |-------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
 | 1     | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0        |
