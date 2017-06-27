@@ -114,6 +114,7 @@
 | 100 	| 1069200 	| 1170180 	| 1271160 	| 1372140 	| 1473120 	| 1574100 	| 1675080 	| 1776060 	| 1877040 	|
 
 <a id="table-bottom"></a>
+<a id="table-top-wings"></a>
 
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top)
 
@@ -222,4 +223,5 @@
 |  	|  	|  	|  	|  	|  	|  	|  	|
 |  	|  	|  	|  	|  	|  	|  	|  	|
 
+<a id="table-bottom-wings"></a>
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top)
