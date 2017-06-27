@@ -113,10 +113,11 @@
 | 99 	| 1048600 	| 1147580 	| 1246560 	| 1345540 	| 1444520 	| 1543500 	| 1642480 	| 1741460 	| 1840440 	|
 | 100 	| 1069200 	| 1170180 	| 1271160 	| 1372140 	| 1473120 	| 1574100 	| 1675080 	| 1776060 	| 1877040 	|
 
-<a id="table-bottom"></a>
-<a id="table-top-wings"></a>
-
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top)
+<a id="table-bottom"></a>
+
+[![Jump to Bottom](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_down_32.png)](#table-bottom)
+<a id="table-top-wings"></a>
 
 | Level 	| ReUp 9 ![9](https://gearsofwar.com/Areas/GearPacks/Content/stats/9.jpg) 	| ReUp 10 ![10](https://gearsofwar.com/Areas/GearPacks/Content/stats/10.jpg) 	| Wings 1 ![11](https://gearsofwar.com/Areas/GearPacks/Content/stats/11.jpg) 	| Wings 2 ![12](https://gearsofwar.com/Areas/GearPacks/Content/stats/12.jpg) 	| Wings 3 ![13](https://gearsofwar.com/Areas/GearPacks/Content/stats/13.jpg) 	| Wings 4 ![14](https://gearsofwar.com/Areas/GearPacks/Content/stats/14.jpg) 	| Wings 5 ![15](https://gearsofwar.com/Areas/GearPacks/Content/stats/15.jpg) 	|
 |-------	|-------------------------------------------------------------------------	|----------------------------------------------------------------------------	|----------------------------------------------------------------------------	|----------------------------------------------------------------------------	|----------------------------------------------------------------------------	|----------------------------------------------------------------------------	|----------------------------------------------------------------------------	|
@@ -220,8 +221,6 @@
 | 98 	| 1998200 	| 10476000 	|  	|  	|  	|  	|  	|
 | 99 	| 2038400 	| 10686900 	|  	|  	|  	|  	|  	|
 | 100 	| 2079000 	| 10899900 	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|
 
 <a id="table-bottom-wings"></a>
-[![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top)
+[![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top-wings)
