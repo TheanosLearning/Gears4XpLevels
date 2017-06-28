@@ -1,6 +1,6 @@
 # Gears of War 4 XP Tables
 
-![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpFits.png)
+![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpFitsFull.png)
 
 `For ReUps 0-8 : XP(R,L) = -(800 + 20R) + (700 + 10R)*L + (100 + 10R)*L^2 -> { R: ReUp, L: Level}`
 
