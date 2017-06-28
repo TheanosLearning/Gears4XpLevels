@@ -220,8 +220,6 @@
 | 98 	| 1998200 	| 10476000 	| 15520000 	| 21897750 	|  	|  	|  	|
 | 99 	| 2038400 	| 10686900 	| 15833125 	| 22340325 	|  	|  	|  	|
 | 100 	| 2079000 	| 10899900 	| 16149375 	| 22787325 	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|
 
 <a id="table-bottom-wings"></a>
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top-wings)
