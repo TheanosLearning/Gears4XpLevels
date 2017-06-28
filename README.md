@@ -118,6 +118,8 @@
 
 ## The Return of Wings
 
+![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpPie.png)
+
 [![Jump to Bottom](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_down_32.png)](#table-bottom-wings)
 
 | Level 	| ReUp 9 ![9](https://gearsofwar.com/Areas/GearPacks/Content/stats/9.jpg) 	| ReUp 10 ![10](https://gearsofwar.com/Areas/GearPacks/Content/stats/10.jpg) 	| Wings 1 ![11](https://gearsofwar.com/Areas/GearPacks/Content/stats/11.jpg) 	| Wings 2 ![12](https://gearsofwar.com/Areas/GearPacks/Content/stats/12.jpg) 	| Wings 3 ![13](https://gearsofwar.com/Areas/GearPacks/Content/stats/13.jpg) 	| Wings 4 ![14](https://gearsofwar.com/Areas/GearPacks/Content/stats/14.jpg) 	| Wings 5 ![15](https://gearsofwar.com/Areas/GearPacks/Content/stats/15.jpg) 	|
