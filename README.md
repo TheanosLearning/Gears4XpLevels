@@ -1,4 +1,4 @@
-# Gears of War 4 XP Tables
+# Gears of War 4 XP
 
 ![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpFitsFull.png)
 
