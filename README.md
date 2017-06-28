@@ -4,8 +4,8 @@
 
 Notes:
 
-`For ReUps 0-8 : XP(R,L) = -(800 + 20R) + (700 + 10R)*L + (100 + 10R)*L^2 -> { R: ReUp, L: Level}`
-`Level 70 is the XP half way point for all ReUps`
+* `For ReUps 0-8 : XP(R,L) = -(800 + 20R) + (700 + 10R)*L + (100 + 10R)*L^2 -> { R: ReUp, L: Level}`
+* `Level 70 is the XP half way point for all ReUps`
 
 <a id="table-top"></a>
 
