@@ -120,7 +120,7 @@ Notes:
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top)
 
 ## The Return of Wings
-#### The real grind begins...
+#### ...the real grind begins...
 
 ![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpPie.png)
 
