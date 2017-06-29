@@ -234,5 +234,4 @@ Notes:
 
 ---
 <sup>1</sup>
-Level 50 is the 25% XP point
-Level 85 is the 75% XP point
+Level 50 is the 25% XP point & level 85 is the 75% XP point
