@@ -4,7 +4,7 @@
 
 Notes:
 
-* `The amount of XP needed to level up grows quadratically`
+* `For each ReUp, the amount of XP needed to level up grows quadratically`
 * `Level 70 is the XP halfway point for all ReUps`
 
 <a id="table-top"></a>
