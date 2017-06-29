@@ -233,4 +233,6 @@ Notes:
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top-wings)
 
 ---
-<sup>1</sup>Roughly, level 50 is the 25% XP & level 85 is the 75% XP mark.
+<sup>1</sup>
+Level 50 is the 25% XP point
+Level 85 is the 75% XP point
