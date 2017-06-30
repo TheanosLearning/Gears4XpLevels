@@ -233,4 +233,4 @@ Notes:
 
 ---
 <sup>1</sup>
-Level 50 is the 25% XP point & level 85 is the 75% XP point.
+At level 50 you are &frac14; through the ReUp (in terms of XP) and at level 85 you are &frac34.
