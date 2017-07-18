@@ -1,5 +1,7 @@
 # Gears of War 4 XP
 
+![equation](https://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)
+
 ![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpFits-Full.png)
 
 Notes:
