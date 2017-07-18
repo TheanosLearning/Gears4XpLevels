@@ -1,6 +1,6 @@
 # Gears of War 4 XP
 
-![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpFitsFull.png)
+![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpFits-Full.png)
 
 Notes:
 
@@ -121,7 +121,7 @@ Notes:
 ## The Return of Wings
 #### ...the real grind begins...
 
-![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUpPie.png)
+![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUp-Pie.png)
 
 [![Jump to Bottom](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_down_32.png)](#table-bottom-wings)
 
