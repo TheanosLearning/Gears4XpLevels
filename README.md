@@ -234,4 +234,4 @@ Notes:
 ![ReUpPieAnimation](https://media.giphy.com/media/3oKIPkTwpaPW7hsstW/giphy.gif)
 ---
 <sup>1</sup>
-At level 50 you are &frac14; through the ReUp (in terms of XP) and at level 85 you are &frac34;. As a quick heuristic, you will reach **p** percent of your ReUp at level ![L](https://latex.codecogs.com/gif.latex?100%5Csqrt%7Bp%7D).
+At level 50 you are &frac14; through the ReUp (in terms of XP) and at level 85 you are &frac34;. As a quick heuristic, you will reach **p** percent of your ReUp at level ![L](https://latex.codecogs.com/gif.latex?L%3D100%5Csqrt%7Bp%7D).
