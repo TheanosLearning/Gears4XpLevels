@@ -235,5 +235,4 @@ Notes:
 ---
 <sup>1</sup>
 At level 50 you are &frac14; through the ReUp (in terms of XP) and at level 85 you are &frac34;.
-
-&radic;<span style="text-decoration:overline;">&nbsp;X + 1&nbsp;</span>
+As a quick heuristic, you will reach *p* percent of your ReUp at level *L = &radic;p*
