@@ -119,7 +119,6 @@ Notes:
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top)
 
 ## The Return of Wings
-#### ...the real grind begins...
 
 ![XP graph](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/ReUp-Pie.png)
 
@@ -231,6 +230,8 @@ Notes:
 <a id="table-bottom-wings"></a>
 [![Jump to Top](https://github.com/TheanosLearning/Gears4XpLevels/raw/master/images/arrow_sans_up_32.png)](#table-top-wings)
 
+#### ...the real grind begins...
+![ReUpPieAnimation](https://media.giphy.com/media/3oKIPkTwpaPW7hsstW/giphy.gif)
 ---
 <sup>1</sup>
 At level 50 you are &frac14; through the ReUp (in terms of XP) and at level 85 you are &frac34;.
