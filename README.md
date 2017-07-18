@@ -235,7 +235,7 @@ Notes:
 ---
 <sup>1</sup>
 At level 50 you are &frac14; through the ReUp (in terms of XP) and at level 85 you are &frac34;.
-<br>
-As a quick heuristic, you will reach ![p](https://latex.codecogs.com/gif.latex?p) percent of your ReUp at level:
 <br><br>
+As a quick heuristic, you will reach ![p](https://latex.codecogs.com/gif.latex?p) percent of your ReUp at level:
+<br>
 ![L](https://latex.codecogs.com/gif.latex?L%3D100%5Csqrt%7Bp%7D)
